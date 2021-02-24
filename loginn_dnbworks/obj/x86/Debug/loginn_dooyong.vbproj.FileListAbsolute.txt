@@ -1,0 +1,8 @@
+C:\Users\New Complab 2018\AppData\Local\Temporary Projects\loginn_dooyong\obj\x86\Debug\loginn_dooyong.Form1.resources
+C:\Users\New Complab 2018\AppData\Local\Temporary Projects\loginn_dooyong\obj\x86\Debug\loginn_dooyong.Form2.resources
+C:\Users\New Complab 2018\AppData\Local\Temporary Projects\loginn_dooyong\obj\x86\Debug\loginn_dooyong.Resources.resources
+C:\Users\New Complab 2018\AppData\Local\Temporary Projects\loginn_dooyong\obj\x86\Debug\loginn_dooyong.vbproj.GenerateResource.Cache
+E:\loginn_dooyong\loginn_dooyong\obj\x86\Debug\loginn_dooyong.Form1.resources
+E:\loginn_dooyong\loginn_dooyong\obj\x86\Debug\loginn_dooyong.Form2.resources
+E:\loginn_dooyong\loginn_dooyong\obj\x86\Debug\loginn_dooyong.Resources.resources
+E:\loginn_dooyong\loginn_dooyong\obj\x86\Debug\loginn_dooyong.vbproj.GenerateResource.Cache
